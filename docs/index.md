@@ -11,12 +11,12 @@ as part of<br>
 for<br>
 <font size= "5"> Team 201 </font><br>
 
-**Submission: month, DD, YYYY**
+**Submission: September, 03, 2025**
 </center>
 
 ## Introduction
 
-* This is another test change to see if it worked
+* This is an edit to test if the commit is working.
 * This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
 
 ### Project Summary
