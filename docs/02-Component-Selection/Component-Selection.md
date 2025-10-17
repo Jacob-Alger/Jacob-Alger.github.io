@@ -245,10 +245,10 @@ explaination
 
 1. PJ-102AH
 
-    ![](image1.png)
+    ![](PJ-102AH.png)
 
-    * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
+    * $0.76/each
+    * [link to product](https://www.digikey.com/en/products/detail/cui-devices/PJ-102AH/408448)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -258,10 +258,10 @@ explaination
 
 1. KLDHCX-0202-B
 
-    ![](image3.png)
+    ![](KLDHCX-0202-B.jpg)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $1.08/each
+    * [Link to product](https://www.digikey.com/en/products/detail/kycon-inc/KLDHCX-0202-B/10719289)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -271,10 +271,10 @@ explaination
 
 1. PJ-083AH
 
-    ![](image3.png)
+    ![](PJ-083AH.jpg)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $1.44/each
+    * [Link to product](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/PJ-083AH/9830154)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -283,6 +283,8 @@ explaination
     | Direct interface with PSoC (no external circuitry required) range |
 
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
+**Choice:** 
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+**Rationale:** 
+
+
