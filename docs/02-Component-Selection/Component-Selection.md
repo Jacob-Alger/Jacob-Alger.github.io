@@ -198,10 +198,10 @@ explaination
 
 1. LM7805T
 
-    ![](image1.png)
+    ![](LM7805T.png)
 
-    * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
+    * $0.33/each
+    * [link to product](https://www.digikey.com/en/products/detail/taejin/LM7805T/22237260)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -211,10 +211,10 @@ explaination
 
 1. MC7805CT-BP
 
-    ![](image3.png)
+    ![](MC7805CT-BP.png)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $0.75/each
+    * [Link to product](https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/MC7805CT-BP/804682)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -224,10 +224,10 @@ explaination
 
 1. LM1086IT-5.0/NOPB
 
-    ![](image3.png)
+    ![](LM1086IT.png)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $2.36/each
+    * [Link to product](https://www.digikey.com/en/products/detail/texas-instruments/LM1086IT-5-0-NOPB/363580)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -236,9 +236,9 @@ explaination
     | Direct interface with PSoC (no external circuitry required) range |
 
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
+**Choice:** 
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+**Rationale:** 
 
 
 ### Barrel Jack
