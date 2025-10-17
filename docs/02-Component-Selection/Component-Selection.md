@@ -104,10 +104,10 @@ explaination
 
 1. PDB181-E425K-103B
 
-    ![](image1.png)
-
-    * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
+    ![](PDB181.jpg)
+   
+    * $1.30/each
+    * [link to product](https://www.digikey.com/en/products/detail/bourns-inc/PDB181-E425K-103B/16356109)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -117,10 +117,10 @@ explaination
 
 1. 3310R-125-103L
 
-    ![](image3.png)
+    ![](3310R-125-103L.jpg)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $3.77/each
+    * [Link to product](https://www.digikey.com/en/products/detail/bourns-inc/3310R-125-103L/2537840)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -130,10 +130,10 @@ explaination
 
 1. 14810A0BHSX10103KA
 
-    ![](image3.png)
+    ![](14810A0BHSX10103KA.jpg)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $15.16/each
+    * [Link to product](https://www.digikey.com/en/products/detail/vishay-spectrol/14810A0BHSX10103KA/10738638)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -142,9 +142,9 @@ explaination
     | Direct interface with PSoC (no external circuitry required) range |
 
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
+**Choice:** 
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+**Rationale:** 
 
 
 ### Transistor
