@@ -4,7 +4,7 @@ title: Component Selection Example
 
 ## Component Selection
 
-> Also acceptable, more markdown friendly
+explaination
 
 ### Op Amp
 
@@ -12,7 +12,7 @@ title: Component Selection Example
 
     ![](MCP6002.png)
 
-    * $1/each
+    * $0.50/each
     * [link to product](https://www.digikey.com/en/products/detail/microchip-technology/MCP6002-E-P/683196)
 
     | Pros                                      | Cons                                                             |
@@ -25,7 +25,7 @@ title: Component Selection Example
 
     ![](TLV2372IP.png)
 
-    * $1/each
+    * $1.87/each
     * [Link to product](https://www.digikey.com/en/products/detail/texas-instruments/TLV2372IP/413506?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALGGABxwDsIAuoQA4AuUIAyuwE4BLAHYBzEAF9CAJgCsUxCBSQMOAsTIgpYKRXoIWIDl16DREwgFp50RVH4BXNSUjkZzSSAswFSh040AzO4e1uQAKgAyAGpSAfTyTOJAA)
 
     | Pros                                                              | Cons                |
@@ -38,7 +38,7 @@ title: Component Selection Example
 
     ![](OPA2337PA.png)
 
-    * $1/each
+    * $3.16/each
     * [Link to product](https://www.digikey.com/en/products/detail/texas-instruments/OPA2337PA/266157)
 
     | Pros                                                              | Cons                |
@@ -48,9 +48,9 @@ title: Component Selection Example
     | Direct interface with PSoC (no external circuitry required) range |
 
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
+**Choice:** 
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+**Rationale:** 
 
 
 ### LDR (Photoresistor)
