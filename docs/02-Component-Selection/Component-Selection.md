@@ -10,10 +10,10 @@ title: Component Selection Example
 
 1. MCP6002-E/P
 
-    ![](image1.png)
+    ![](MCP6002.png)
 
     * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
+    * [link to product](https://www.digikey.com/en/products/detail/microchip-technology/MCP6002-E-P/683196)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -23,10 +23,10 @@ title: Component Selection Example
 
 1. TLV2372IP
 
-    ![](image3.png)
+    ![](TLV2372IP.png)
 
     * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * [Link to product](https://www.digikey.com/en/products/detail/texas-instruments/TLV2372IP/413506?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALGGABxwDsIAuoQA4AuUIAyuwE4BLAHYBzEAF9CAJgCsUxCBSQMOAsTIgpYKRXoIWIDl16DREwgFp50RVH4BXNSUjkZzSSAswFSh040AzO4e1uQAKgAyAGpSAfTyTOJAA)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -36,10 +36,10 @@ title: Component Selection Example
 
 1. OPA2337PA
 
-    ![](image3.png)
+    ![](OPA2337PA.png)
 
     * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * [Link to product](https://www.digikey.com/en/products/detail/texas-instruments/OPA2337PA/266157)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
