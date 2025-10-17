@@ -151,10 +151,10 @@ explaination
 
 1. 2N2222A
 
-    ![](image1.png)
+    ![](2N2222A.png)
 
-    * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
+    * $0.17/each
+    * [link to product](https://www.digikey.com/en/products/detail/diotec-semiconductor/2N2222A/13164037)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -164,10 +164,10 @@ explaination
 
 1. BC550CBU
 
-    ![](image3.png)
+    ![](BC550CBU.png)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $0.29/each
+    * [Link to product](https://www.digikey.com/en/products/detail/onsemi/BC550CBU/975565)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -177,10 +177,10 @@ explaination
 
 1. MPSA06
 
-    ![](image3.png)
+    ![](MPSA06.png)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $0.21/each
+    * [Link to product](https://www.digikey.com/en/products/detail/diotec-semiconductor/MPSA06/22193294)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -189,9 +189,9 @@ explaination
     | Direct interface with PSoC (no external circuitry required) range |
 
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
+**Choice:** 
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+**Rationale:** 
 
 
 ### Voltage Regulator
