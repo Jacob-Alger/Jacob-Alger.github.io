@@ -57,10 +57,10 @@ explaination
 
 1. NSL-5152
 
-    ![](image1.png)
+    ![](NSL-5152.jpg)
 
-    * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
+    * $0.87/each
+    * [link to product](https://www.digikey.com/en/products/detail/advanced-photonix/NSL-5152/5423680)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -70,10 +70,10 @@ explaination
 
 1. NSL-5150
 
-    ![](image3.png)
+    ![](NSL-5150.png)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $4.11/each
+    * [Link to product](https://www.digikey.com/en/products/detail/advanced-photonix/NSL-5150/5039798)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -83,10 +83,10 @@ explaination
 
 1. PDV-P9203
 
-    ![](image3.png)
+    ![](PDV-P9203.jpg)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $1.15/each
+    * [Link to product](https://www.digikey.com/en/products/detail/advanced-photonix/PDV-P9203/480628?s=N4IgjCBcoOwMwCYqgMZQGYEMA2BnApgDQgD2UA2iAGwAsCccIAusQA4AuUIAyuwE4BLAHYBzEAF9iAWiTQQaSPwCuRUhRABWZpJBSqyeVGWqykSoybidsygBkAIgCVtQA)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -95,9 +95,9 @@ explaination
     | Direct interface with PSoC (no external circuitry required) range |
 
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
+**Choice:** 
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+**Rationale:** 
 
 
 ### Potentiometer
