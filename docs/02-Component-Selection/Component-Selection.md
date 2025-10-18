@@ -1,8 +1,8 @@
 ---
-title: Component Selection Example
+title: Component Selection
 ---
 
-## Component Selection
+## Individual Subsystem Component Selection
 
 For my Wheatstone Bridge Light Sensor subsystem for our smart garden project, I have evaluated 3 different components for each major component of my circuit to evaluate them and choose the best ones. This includes the op-amp for amplifying the readings from the photoresistor, or LDR, the potentiometer to balance the Wheatstone Bridge, and the transistor to switch and send signals to the other subsystems. Then there are the power supplies, which include the barrel jack connector for a 9-volt wall power supply and the linear voltage regulator for the 5 volts required for the LDR and the op-amp.
 
