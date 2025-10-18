@@ -4,7 +4,9 @@ title: Component Selection Example
 
 ## Component Selection
 
-explaination
+For my Wheatstone Bridge Light Sensor subsystem for our smart garden project, I have evaluated 3 different components for each major component of my circuit to evaluate them and choose the best ones. This includes the op-amp for amplifying the readings from the photoresistor, or LDR, the potentiometer to balance the Wheatstone Bridge, and the transistor to switch and send signals to the other subsystems. Then there are the power supplies, which include the barrel jack connector for a 9-volt wall power supply and the linear voltage regulator for the 5 volts required for the LDR and the op-amp.
+
+The other component that is not selected is the PIC18F57Q43 Curiosity Nano Development Board, since this is the key microcontroller for this whole subsystem and project. This component allows for converting the analog readings to digital and back to analog for the purposes throughout our system.
 
 ### Op-Amp
 
@@ -293,4 +295,4 @@ explaination
 
 **Choice:** Option 1: PJ-102AH Power Barrel Connector Jack
 
-**Rationale:** Similar to the voltage regulator, the PJ-102AH Barrel Jack is already in the lab kit, but it also appears to be the best choice out of the other barrel jack connectors. Most of them are similar in specifications and price, the only differences is quality and size, and the PJ-102AH Barrel Jack seems to be the best mid ground of all of these. It also has longer pins suitible for PCB mounting and soldering.
+**Rationale:** Similar to the voltage regulator, the PJ-102AH Barrel Jack is already in the lab kit, but it also appears to be the best choice out of the other barrel jack connectors. Most of them are similar in specifications and price; the only differences are quality and size, and the PJ-102AH Barrel Jack seems to be the best middle ground of all of these. It also has longer pins suitable for PCB mounting and soldering.
