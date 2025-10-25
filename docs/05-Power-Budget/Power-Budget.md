@@ -17,4 +17,4 @@ From the prepared Power Budget, you can see that there is plenty of current to p
 
 ## Resouces
 
-The power budget as a PDF download is available [*here*](Power_Budget.pdf), and a Microsoft Excel Sheet [*here*](Power Budget.xlsx).
+The power budget as a PDF download is available [*here*](Power_Budget.pdf), and a Microsoft Excel Sheet [*here*](Power_Budget.xlsx).
