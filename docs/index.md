@@ -11,19 +11,16 @@ as part of<br>
 for<br>
 <font size= "5"> Team 201 </font><br>
 
-**Submission: September, 03, 2025**
+**Submission: October 27, 2025**
 </center>
 
 ## Introduction
 
-* This is an edit to test if the commit is working.
-* This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
+The purpose of this datasheet is to cover my contributions to Team 201's "project name" project, which is a light sensor subsystem that serves to alert the user when their plant is not getting enough sunlight. This datasheet contains my process for creating my schematic, which is currently at the review phase, where I will then implement feedback received and then go on to build my PCB subsystem.
 
 ### Project Summary
 
-* This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
-* Add context that ties into the link to your [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
-
+Team 201, the Irri-gators, set out to design a home improvement device for a user base, which we decided would be home gardeners, including both people who grow crops on a small, home-scale, as well as people who want to keep houseplants alive. To do this, we followed the design ideation process and settled on a design that consists of two sensors: light and moisture, and two actuators: water valve and speaker. This design will allow the user to set it up and be alerted when their plant needs more sunlight, as well as when it is being watered. A full report of this project on a team level can be found [here.](https://asu-egr304-2025-f-201.github.io/)
 
 ### My Contribution
 
