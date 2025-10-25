@@ -24,7 +24,7 @@ Team 201, the Irri-gators, set out to design a home improvement device for a use
 
 ### My Contribution
 
-For the "project name" project, I was tasked with designing the light sensor subsystem for the device. I followed the design process to create a well researched and effective design using lots of feedback, which I am still getting as this project is currently in the design review phase. 
+For the "project name" project, I was tasked with designing the light sensor subsystem for the device. I followed the design process to create a well-researched and effective design using lots of feedback, which I am still getting as this project is currently in the design review phase. <br>
 * To see the block diagram, which lays out the general idea of my PCB, you can see it on the ["Block Diagram"](https://jacob-alger.github.io/01-Block-Diagram/Block-Diagram/) page of the datasheet.
 * To see how I selected components for my system, you can see it on the ["Component Selection"](https://jacob-alger.github.io/02-Component-Selection/Component-Selection/) page of the datasheet.
 * To see my schematic of this subsystem, created in KiCad, you can see it on the ["Schematic"](https://jacob-alger.github.io/04-Schematic/schematic/) page of the datasheet.
