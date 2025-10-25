@@ -7,7 +7,7 @@ tags:
 <center>
 <font size= "6">Jacob Alger Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> Garden Buddy</font><br>
 for<br>
 <font size= "5"> Team 201 </font><br>
 
@@ -16,7 +16,7 @@ for<br>
 
 ## Introduction
 
-The purpose of this datasheet is to cover my contributions to Team 201's "project name" project, which is a light sensor subsystem that serves to alert the user when their plant is not getting enough sunlight. This datasheet contains my process for creating my schematic, which is currently at the review phase, where I will then implement feedback received and then go on to build my PCB subsystem.
+The purpose of this datasheet is to cover my contributions to Team 201's "Garden Buddy" smart home garden tool project, which is a light sensor subsystem that serves to alert the user when their plant is not getting enough sunlight. This datasheet contains my process for creating my schematic, which is currently at the review phase, where I will then implement feedback received and then go on to build my PCB subsystem.
 
 ### Project Summary
 
@@ -24,7 +24,7 @@ Team 201, the Irri-gators, set out to design a home improvement device for a use
 
 ### My Contribution
 
-For the "project name" project, I was tasked with designing the light sensor subsystem for the device. I followed the design process to create a well-researched and effective design using lots of feedback, which I am still getting as this project is currently in the design review phase. 
+For the "Garden Buddy" project, I was tasked with designing the light sensor subsystem for the device. I followed the design process to create a well-researched and effective design using lots of feedback, which I am still getting as this project is currently in the design review phase. 
 <br>
 
 - To see the block diagram, which lays out the general idea of my PCB, you can see it on the ["Block Diagram"](https://jacob-alger.github.io/01-Block-Diagram/Block-Diagram/) page of the datasheet.
