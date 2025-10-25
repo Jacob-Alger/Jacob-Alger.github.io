@@ -24,9 +24,8 @@ Team 201, the Irri-gators, set out to design a home improvement device for a use
 
 ### My Contribution
 
-* This needs to be updated to reflect a team introduction
-* Content should also help an unfamiliar reader navigate to areas of interest. Information like:
-
-To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of the datasheet.
-
-For all the sections
+For the "project name" project, I was tasked with designing the light sensor subsystem for the device. I followed the design process to create a well researched and effective design using lots of feedback, which I am still getting as this project is currently in the design review phase. 
+* To see the block diagram, which lays out the general idea of my PCB, you can see it on the ["Block Diagram"](https://jacob-alger.github.io/01-Block-Diagram/Block-Diagram/) page of the datasheet.
+* To see how I selected components for my system, you can see it on the ["Component Selection"](https://jacob-alger.github.io/02-Component-Selection/Component-Selection/) page of the datasheet.
+* To see my schematic of this subsystem, created in KiCad, you can see it on the ["Schematic"](https://jacob-alger.github.io/04-Schematic/schematic/) page of the datasheet.
+* To see the power budget of my schematic, and verify it should run, you can see it on the ["Power Budget"](https://jacob-alger.github.io/05-Power-Budget/Power-Budget/) page of the datasheet.
