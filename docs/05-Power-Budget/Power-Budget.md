@@ -3,17 +3,17 @@ title: Power Budget
 ---
 
 ## Overview
-Write a overview of what you did and why you did a Power Budget.
 
-> Capture your power budge as a image to display. Take time to get clean breaks and a well organized layout.
+In order to verify that my component selection and circuit design will work, I filled out this power budget to verify that I will have enough current from my power sources to power my whole circuit. In each section, the components are listed with their voltage and current draw so that the calculator can make sure there is no current deficit, while accounting for a safety margin of 25%. Section A contains the major electronic components of my design that will draw a meaningful amount of current, including the power regulators and sources used. Then, in Section B, each component is assigned to a power rail, which is each voltage level that my circuit needs to run, to once again verify that the selected regulator or source will provide enough current. Finally, in Section D, the external power supply is verified to be capable of powering the whole circuit. You can see my power budget in **Figure 1**, and the power budget is available as both PDF/XLSX files in the *Resources* section below.
 
 ![power budget 1](Power_Budget_1.png){style width:"350" height:"300;"}
 <br>
 ![power budget 2](Power_Budget_2.png){style width:"350" height:"300;"}
+**Figure 1: Power budget**
 
 ## Conclusions
 
-From the prepared Power Budget, .....
+From the prepared Power Budget, you can see that there is plenty current to power my whole circuit, which makes sense as it is a simple light sensor
 
 ## Resouces
 
