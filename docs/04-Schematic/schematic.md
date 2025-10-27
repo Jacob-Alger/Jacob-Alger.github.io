@@ -10,10 +10,10 @@ The schematic can be seen in **Figure 1** below, and PDF/ZIP files can be found 
 
 
 
-![schematic](subsystem_schematic-rev2.png){style width:"350" height:"300;"}
+![schematic](subsystem_schematic-rev3.png){style width:"350" height:"300;"}
 **Figure 1:** Light Sensor Subsystem Schematic.
 
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](subsystem_design.pdf), and the Zip folder of the project [*here*](subsystem_design-rev2.zip).
+The schematic as a PDF download is available [*here*](subsystem_design.pdf), and the Zip folder of the project [*here*](subsystem_design-rev3.zip).
