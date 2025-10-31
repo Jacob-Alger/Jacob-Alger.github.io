@@ -11,6 +11,7 @@ written context
 ## Bill of Materials
 
 *Table 1: BOM for Light Sensor Subsystem*
+<br>
 | **Part Name/Description** | **Qty** | **Unit Cost** | **Total Cost** | **Manufacturer** | **Manufacturer #** | **Supplier** | **Vendor Link** | **Datasheet Link** | **Schematic Reference Designators** |
 |----------------------|----------|------------------|--------------------|--------------|-------------------|---------|------------|----------------|-------------------------------|
 | Barrel Jack Connector | 1 | $0.76 | $0.76 | Same Sky | PJ-102AH | Digi-Key | [Link](https://www.digikey.com/en/products/detail/cui-devices/PJ-102AH/408448) | [Datasheet](https://www.cuidevices.com/product/resource/pj-102ah.pdf) | J1 |
