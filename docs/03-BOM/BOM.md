@@ -6,7 +6,9 @@ tags:
 ---
 
 ## Overview
-written context
+Below is the bill of materials for my entire light sensor subsystem PCB design, as shown in ** Table 1 **. Most of the parts can either be sourced in Peralta 109/103 or are in stock for ordering through Digi-Key. The pin headers and jumpers are to be used for debugging errors in my PCB design by seperating sections manually, and using female-to-female jumper cables where needed. The test points will be pads on the board, rather than physical parts, to remove clutter and maintain my budget.
+
+The total cost of this BOM is $8.35, but I'm ordering 3 extra of each major component from Digi-Key, so my total price is $27.28, well within the $60 per team member budget established by the course requirements.
 
 ## Bill of Materials
 
@@ -31,6 +33,7 @@ written context
 | 4.7k, 1/4W Resistor | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | R6 |
 | 300, 1/4W Resistor | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | R9 |
 | 1A Fuse 5x20 | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | F1 |
+| 2-pin Jumper | 16 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J17, J18 |
 | 40 Pin Header Connector | 2 | $0.00 | $0.00 | Lystaii | n/a | Peralta | [Link](https://www.amazon.com/Header-Lystaii-Pin-Connector-Electronic/dp/B06ZZN8L9S/ref=sr_1_15?dchild=1&keywords=40+pin+header+male+to+male&qid=1608606507&sr=8-15) | n/a | J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J17, J18, J16, J19, J20, J21 |
 | 40 Pin 2.54mm Single Row Straight Female PCB Header | 2 | $0.00 | $0.00 | Qunqi | n/a | Peralta | [Link](https://www.amazon.com/Qunqi-2-54mm-Straight-Connector-Arduino/dp/B07CGGSDWF/ref=sr_1_17?dchild=1&keywords=female+header+strips&qid=1595380282&sr=8-17) | n/a | U3 |
 | Red LED | 1 | $0.00 | $0.00 | n/a | n/a | Kit | n/a | n/a | D1 |
@@ -38,9 +41,3 @@ written context
 
 
 <br>
-
-## Bill of Materials Example (as Image)
-![](BOM-Screenshot.png){style width: "2000"}
-**Figure 2:** Example Bill of Materials as a screenshot.
-
-As you can see, the text can be difficult to read without opening the image.
