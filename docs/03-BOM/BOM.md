@@ -12,6 +12,8 @@ written context
 
 *Table 1: BOM for Light Sensor Subsystem*
 <br>
+
+
 | **Part Name/Description** | **Qty** | **Unit Cost** | **Total Cost** | **Manufacturer** | **Manufacturer #** | **Supplier** | **Vendor Link** | **Datasheet Link** | **Schematic Reference Designators** |
 |----------------------|----------|------------------|--------------------|--------------|-------------------|---------|------------|----------------|-------------------------------|
 | Barrel Jack Connector | 1 | $0.76 | $0.76 | Same Sky | PJ-102AH | Digi-Key | [Link](https://www.digikey.com/en/products/detail/cui-devices/PJ-102AH/408448) | [Datasheet](https://www.cuidevices.com/product/resource/pj-102ah.pdf) | J1 |
@@ -33,6 +35,9 @@ written context
 | 40 Pin 2.54mm Single Row Straight Female PCB Header | 2 | $0.00 | $0.00 | Qunqi | n/a | Peralta | [Link](https://www.amazon.com/Qunqi-2-54mm-Straight-Connector-Arduino/dp/B07CGGSDWF/ref=sr_1_17?dchild=1&keywords=female+header+strips&qid=1595380282&sr=8-17) | n/a | U3 |
 | Red LED | 1 | $0.00 | $0.00 | n/a | n/a | Kit | n/a | n/a | D1 |
 | Pushbutton Switch | 1 | $0.00 | $0.00 | n/a | n/a | Kit | n/a | n/a | SW1 |
+
+
+<br>
 
 ## Bill of Materials Example (as Image)
 ![](BOM-Screenshot.png){style width: "2000"}
