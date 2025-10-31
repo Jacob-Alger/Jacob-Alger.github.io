@@ -4,9 +4,9 @@ title: Component Selection
 
 ## Individual Subsystem Component Selection
 
-For my Wheatstone Bridge Light Sensor subsystem for our smart garden project, I have evaluated 3 different components for each major component of my circuit to evaluate them and choose the best ones. This includes the op-amp for amplifying the readings from the photoresistor, or LDR, the potentiometer to balance the Wheatstone Bridge, and the transistor to switch and send signals to the other subsystems. Then there are the power supplies, which include the barrel jack connector for a 9-volt wall power supply and the linear voltage regulator for the 5 volts required for the LDR and the op-amp.
+For my Wheatstone Bridge Light Sensor subsystem for our smart garden project, I have evaluated three different components for each major component of my circuit to evaluate them and choose the best ones. This includes the op-amp for amplifying the readings from the photoresistor, or LDR, the potentiometer to balance the Wheatstone Bridge, and the transistor to switch and send signals to the other subsystems. Then there are the power supplies, which include the barrel jack connector for a 9-volt wall power supply and the linear voltage regulator for the 5 volts required for the LDR and the op-amp.
 
-The other component that is not selected is the PIC18F57Q43 Curiosity Nano Development Board, since this is the key microcontroller for this whole subsystem and project. This component allows for converting the analog readings to digital and back to analog for the purposes throughout our system.
+The other component that is not selected is the PIC18F57Q43 Curiosity Nano Development Board, as this is the key microcontroller for the entire subsystem and project. This component enables the conversion of analog readings to digital and back to analog for use, as well as providing timing and processing power throughout our system.
 
 ### Op-Amp
 
@@ -52,7 +52,7 @@ The other component that is not selected is the PIC18F57Q43 Curiosity Nano Devel
 
 **Choice:** Option 1: MCP6002-E/P Rail-to-Rail Single Supply Op-Amp
 
-**Rationale:** The MCP6002-E/P offers enough for this design while staying inexpensive and simple to use. I like how it has a second op-amp built in, which is useful for debugging or redesigning the circuit if something goes wrong. The TLV2372IP would work, but it is more expensive and doesn't offer too much more than what's needed, and the OPA2337PA is overkill for a sunlight detecting circuit, especially with its price point.
+**Rationale:** The MCP6002-E/P offers sufficient functionality for this design while remaining inexpensive and straightforward to use. I appreciate that it features a second op-amp, which is useful for debugging or redesigning the circuit if something goes wrong. The TLV2372IP would work, but it is more expensive and doesn't offer significantly more than what's needed. The OPA2337PA is overkill for a sunlight detecting circuit, especially considering its price point.
 
 
 ### LDR (Photoresistor)
@@ -98,7 +98,7 @@ The other component that is not selected is the PIC18F57Q43 Curiosity Nano Devel
 
 **Choice:** Option 1: NSL-5152 CdS Cells
 
-**Rationale:** The NSL-5152 is an acceptable photoresistor for sunlight detection, and being inexpensive helps with the budget of the PCB. The delicate package will be more difficult to solder, but it will be easier to fit on the board. The resistance values should be good for the design of this project, which is important for the Wheatstone bridge to function. The other two are very similar, but the NSL-5152 is the best by a slight margin.
+**Rationale:** The NSL-5152 is an acceptable photoresistor for sunlight detection, and its affordability helps with the PCB budget. The delicate package will be more difficult to solder, but it will be easier to fit on the board. The resistance values should be suitable for the design of this project, which is crucial for the Wheatstone bridge to function properly. The other two are very similar, but the NSL-5152 is the best by a slight margin.
 
 
 ### Potentiometer
@@ -145,7 +145,7 @@ The other component that is not selected is the PIC18F57Q43 Curiosity Nano Devel
 
 **Choice:** Option 2: 3310R-125-103L Linear 10kOhm Potentiometer
 
-**Rationale:** The 3310R-125-103L Potentiometer is a good choice for the PCB design, and while it is more expensive, the price is worth the ability to solder it well and adjust it easily on the board. The PDB181-E425K-103B Potentiometer is good, but it would be hard to solder and would require a lot of space on the board. And the price of the 14810A0BHSX10103KA Potentiometer is not worth the quality.
+**Rationale:** The 3310R-125-103L Potentiometer is a suitable choice for the PCB design. Although it is more expensive, the price is justified by its ability to be soldered well and adjusted easily on the board. The PDB181-E425K-103B Potentiometer is suitable, but it would be challenging to solder and would require a significant amount of space on the board. And the price of the 14810A0BHSX10103KA Potentiometer is not worth the quality.
 
 
 ### Transistor
@@ -243,9 +243,9 @@ The other component that is not selected is the PIC18F57Q43 Curiosity Nano Devel
 
 
 
-**Choice:** Option 1: LM7805T Linear Voltage Regulator
+**Choice:** Option 1: MC7805CT-BP Linear Voltage Regulator
 
-**Rationale:** The LM7805T Regulator does come in the lab kit, which does help reduce the budget, but on top of that, it remains an inexpensive choice that accomplishes everything needed in the circuit, meaning that another option isn't required. The efficiency problems are important to consider, but for a simple sunlight sensor, it isn't as important.
+**Rationale:** The LM7805T regulator is included in the lab kit, which helps reduce the budget. However, it is difficult to obtain, so I chose the MC7805CT-BP instead. It offers practically the same features, just slightly higher priced. However, the price increase is worth it for the faster shipping times and lower order quantities. The efficiency problems are important to consider, but for a simple sunlight sensor, they are not as significant.
 
 
 ### Barrel Jack
@@ -295,4 +295,4 @@ The other component that is not selected is the PIC18F57Q43 Curiosity Nano Devel
 
 **Choice:** Option 1: PJ-102AH Power Barrel Connector Jack
 
-**Rationale:** Similar to the voltage regulator, the PJ-102AH Barrel Jack is already in the lab kit, but it also appears to be the best choice out of the other barrel jack connectors. Most of them are similar in specifications and price; the only differences are quality and size, and the PJ-102AH Barrel Jack seems to be the best middle ground of all of these. It also has longer pins suitable for PCB mounting and soldering.
+**Rationale:** Similar to the voltage regulator, the PJ-102AH Barrel Jack is already in the lab kit, but it also appears to be the best choice out of the other barrel jack connectors. Most of them are similar in specifications and price; the only differences are quality and size. The PJ-102AH Barrel Jack seems to be the best middle ground among these. It also has longer pins suitable for PCB mounting and soldering.
