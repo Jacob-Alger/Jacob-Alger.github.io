@@ -603,9 +603,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#bill-of-materials-example-as-table" class="md-nav__link">
+  <a href="#bill-of-materials" class="md-nav__link">
     <span class="md-ellipsis">
-      Bill of Materials Example (as Table)
+      Bill of Materials
     </span>
   </a>
   
@@ -810,9 +810,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#bill-of-materials-example-as-table" class="md-nav__link">
+  <a href="#bill-of-materials" class="md-nav__link">
     <span class="md-ellipsis">
-      Bill of Materials Example (as Table)
+      Bill of Materials
     </span>
   </a>
   
@@ -854,51 +854,29 @@
 
 <h2 id="overview">Overview</h2>
 <p>written context</p>
-<h2 id="bill-of-materials-example-as-table">Bill of Materials Example (as Table)</h2>
-<p><em>Table ##: An example of one approach to adding your BOM table to this section.</em></p>
-<table>
-<thead>
-<tr>
-<th style="text-align: left;"><strong>Part Name/Description</strong></th>
-<th style="text-align: left;"><strong>Qty</strong></th>
-<th style="text-align: left;"><strong>Unit Cost</strong></th>
-<th style="text-align: left;"><strong>Total Cost</strong></th>
-<th style="text-align: left;"><strong>Manufacture</strong></th>
-<th style="text-align: left;"><strong>Manufacturer #</strong></th>
-<th style="text-align: left;"><strong>Vendor Link</strong></th>
-<th style="text-align: left;"><strong>Datasheet Link</strong></th>
-<th style="text-align: left;"><strong>Schematic Reference Designators</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: left;">8-bit SIPO/SISO Shift Register, SOIC-16 package</td>
-<td style="text-align: left;">1</td>
-<td style="text-align: left;">$0.49</td>
-<td style="text-align: left;">$ 0.49</td>
-<td style="text-align: left;">NXP</td>
-<td style="text-align: left;">74HC595D,112</td>
-<td style="text-align: left;"><a href="https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC595D-112/763550">DigiKey</a></td>
-<td style="text-align: left;"><a href="https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf">datasheet link</a></td>
-<td style="text-align: left;">U1</td>
-</tr>
-<tr>
-<td style="text-align: left;">0.1 µF Ceramic Capacitor, +/-10%, X7R, 50V, 0805 package</td>
-<td style="text-align: left;">10</td>
-<td style="text-align: left;">0.2750</td>
-<td style="text-align: left;">$2.75</td>
-<td style="text-align: left;">KEMET</td>
-<td style="text-align: left;">C0805F104K5RACTU</td>
-<td style="text-align: left;">PRLTA 109</td>
-<td style="text-align: left;">n/a</td>
-<td style="text-align: left;">C2, C4, C6, C7, C8, C9, C10, C11, C12, C16</td>
-</tr>
-</tbody>
-</table>
-<p>Note: Setting it up as a table is nice because it is completely viewable without scaling issues. <ins>Downside</ins> is that you have to do the math.</p>
-<ul>
-<li>You could also import your BOM via a screenshot of the spreadsheet created BOM</li>
-</ul>
+<h2 id="bill-of-materials">Bill of Materials</h2>
+<p><em>Table 1: BOM for Light Sensor Subsystem</em>
+| <strong>Part Name/Description</strong> | <strong>Qty</strong> | <strong>Unit Cost</strong> | <strong>Total Cost</strong> | <strong>Manufacturer</strong> | <strong>Manufacturer #</strong> | <strong>Supplier</strong> | <strong>Vendor Link</strong> | <strong>Datasheet Link</strong> | <strong>Schematic Reference Designators</strong> |
+|----------------------|----------|------------------|--------------------|--------------|-------------------|---------|------------|----------------|-------------------------------|
+| Barrel Jack Connector | 1 | $0.76 | $0.76 | Same Sky | PJ-102AH | Digi-Key | <a href="https://www.digikey.com/en/products/detail/cui-devices/PJ-102AH/408448">Link</a> | <a href="https://www.cuidevices.com/product/resource/pj-102ah.pdf">Datasheet</a> | J1 |
+| Linear Voltage Regulator | 1 | $0.75 | $0.75 | MCC | MC7805CT-BP | Digi-Key | <a href="https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/MC7805CT-BP/804682">Link</a> | <a href="https://www.mccsemi.com/pdf/Products/MC7805CT(TO-220).pdf">Datasheet</a> | U1 |
+| Op-Amp | 1 | $0.50 | $0.50 | Microchip Technology | MCP6002-E/P | Digi-Key | <a href="https://www.digikey.com/en/products/detail/microchip-technology/MCP6002-E-P/683196">Link</a> | <a href="https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf">Datasheet</a> | U2 |
+| NPN Transistor | 1 | $1.70 | $1.70 | Diotec Semiconductor | 2N2222A | Digi-Key | <a href="https://www.digikey.com/en/products/detail/diotec-semiconductor/2N2222A/13164037">Link</a> | <a href="https://diotec.com/request/datasheet/2n2222a.pdf">Datasheet</a> | Q1 |
+| Photoresistor | 1 | $0.87 | $0.87 | Advanced Photonix | NSL-5152 | Digi-Key | <a href="https://www.digikey.com/en/products/detail/advanced-photonix/NSL-5152/5423680">Link</a> | <a href="https://www.advancedphotonix.com/wp-content/uploads/2015/07/DS-NSL-5152.pdf">Datasheet</a> | R5 |
+| Potentiometer | 1 | $3.77 | $3.77 | Bourns Inc. | 3310R-125-103L | Digi-Key | <a href="https://www.digikey.com/en/products/detail/bourns-inc/3310R-125-103L/2537840">Link</a> | <a href="https://www.bourns.com/docs/Product-Datasheets/3310.pdf">Datasheet</a> | RV1 |
+| 8-pin DIP IC Socket | 1 | $0.00 | $0.00 | Assmann WSW Components | A 08-LC-TT | Peralta | <a href="https://www.digikey.com/en/products/detail/assmann-wsw-components/A-08-LC-TT/821740">Link</a> | <a href="http://www.assmann-wsw.com/uploads/datasheets/ASS_0810_CO.pdf">Datasheet</a> | U2 |
+| .1 uF, 50V Capacitor | 5 | $0.00 | $0.00 | Vishay Beyschlag/Draloric/BC Components | K104K10X7RF5UH5 | Peralta | <a href="https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K10X7RF5UH5/2356879">Link</a> | <a href="https://www.vishay.com/docs/45171/kseries.pdf">Datasheet</a> | C2, C3, C4, C5, C6 |
+| 10 uF, 50V Capacitor | 1 | $0.00 | $0.00 | Lumimax Optoelectronic Technology | MC2-1206Y106M500BF3 | Peralta | <a href="https://www.digikey.com/en/products/detail/lumimax-optoelectronic-technology/MC2-1206Y106M500BF3/16735086">Link</a> | <a href="https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7152/%5BLumimax%5DMonoCap%20GP%20Series.pdf">Datasheet</a> | C1 |
+| 1k, 1/4W Resistor | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | R1 |
+| 200k, 1/4W Resistor | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | R2 |
+| 10k, 1/4W Resistor | 4 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | R3, R4, R7, R8 |
+| 4.7k, 1/4W Resistor | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | R6 |
+| 300, 1/4W Resistor | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | R9 |
+| 1A Fuse 5x20 | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | F1 |
+| 40 Pin Header Connector | 2 | $0.00 | $0.00 | Lystaii | n/a | Peralta | <a href="https://www.amazon.com/Header-Lystaii-Pin-Connector-Electronic/dp/B06ZZN8L9S/ref=sr_1_15?dchild=1&amp;keywords=40+pin+header+male+to+male&amp;qid=1608606507&amp;sr=8-15">Link</a> | n/a | J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J17, J18, J16, J19, J20, J21 |
+| 40 Pin 2.54mm Single Row Straight Female PCB Header | 2 | $0.00 | $0.00 | Qunqi | n/a | Peralta | <a href="https://www.amazon.com/Qunqi-2-54mm-Straight-Connector-Arduino/dp/B07CGGSDWF/ref=sr_1_17?dchild=1&amp;keywords=female+header+strips&amp;qid=1595380282&amp;sr=8-17">Link</a> | n/a | U3 |
+| Red LED | 1 | $0.00 | $0.00 | n/a | n/a | Kit | n/a | n/a | D1 |
+| Pushbutton Switch | 1 | $0.00 | $0.00 | n/a | n/a | Kit | n/a | n/a | SW1 |</p>
 <h2 id="bill-of-materials-example-as-image">Bill of Materials Example (as Image)</h2>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../BOM-Screenshot.png" data-desc-position="bottom"><img _2000_="&quot;2000&quot;" alt="" src="../BOM-Screenshot.png" style="style" width:="width:"></a>
 <strong>Figure 2:</strong> Example Bill of Materials as a screenshot.</p>
