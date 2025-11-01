@@ -8,7 +8,7 @@ tags:
 ## Overview
 Below is the bill of materials for my entire light sensor subsystem PCB design, as shown in **Table 1**. Most of the parts can either be sourced in Peralta 109/103 or are in stock for ordering through Digi-Key. The pin headers and jumpers are to be used for debugging errors in my PCB design by separating sections manually and using female-to-female jumper cables where needed. The test points will be pads on the board, rather than physical parts, to remove clutter and maintain my budget.
 
-The total cost of this BOM is \$8.35, but I'm ordering 3 extra of each major component from Digi-Key, so my total price is \$27.28, well within the $60 per team member budget established by the course requirements.
+The total cost of this BOM is \\$8.35, but I'm ordering 3 extra of each major component from Digi-Key, so my total price is \\$27.28, well within the $60 per team member budget established by the course requirements.
 
 ## Bill of Materials
 
