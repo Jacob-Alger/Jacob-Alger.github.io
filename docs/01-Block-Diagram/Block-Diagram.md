@@ -6,9 +6,9 @@ tags:
 ---
 
 ## Overview
-To get a better idea of my PCB design for our project, I created a block diagram of my light sensor subsystem. My PCB will utilize the Wheatstone Bridge light sensor design to measure the sunlight and give an output based on how much light is being received. This sensor will connect to the hub of our project to talk to the speaker actuator to alert if the plant is not getting enough light.
+To get a better idea of my PCB design for our project, I created a block diagram of my light sensor subsystem. My PCB will utilize the Wheatstone Bridge light sensor design to measure the sunlight and give an output based on how much light is being received. This sensor will connect to the hub of our project to talk to the buzzer actuator to alert if the plant is not getting enough light.
 
-There are two power levels: a 9V power level supplied by the barrel jack adapter and a 5V power level supplied by the voltage regulator component. The 5V power level will be used to control the op-amp to measure the Wheatstone Bridge readings from the photoresistor and control the transistor switch, which sends the signal to the microcontroller. This design will send a signal when the sunlight is too low, which will send a report signal to the speaker subsystem.
+There are two power levels: a 9V power level supplied by the barrel jack adapter and a 5V power level supplied by the voltage regulator component. The 5V power level will be used to control the op-amp to measure the Wheatstone Bridge readings from the photoresistor and control the transistor switch, which sends the signal to the microcontroller. This design will send a signal when the sunlight is too low, which will send a report signal to the buzzer subsystem.
 
 This design is subject to change after the design review and after I learn more about how to properly input the Wheatstone Bridge light detector and how exactly I need to talk to my teammates' boards.
 
