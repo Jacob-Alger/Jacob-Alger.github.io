@@ -17,6 +17,7 @@ This is well within the **\$60** per team member budget established by the cours
 ## Bill of Materials
 
 *Table 1: BOM for Light Sensor Subsystem*
+>Note: The table scrolls side to side. Please scroll to see all of it.
 <br>
 
 
