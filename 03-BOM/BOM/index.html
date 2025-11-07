@@ -836,9 +836,9 @@
 
 <h2 id="overview">Overview</h2>
 <p>Below is the bill of materials for my entire light sensor subsystem PCB design, as shown in <strong>Table 1</strong>. Most of the parts can either be sourced in Peralta 109/103 or are in stock for ordering through Digi-Key. The pin headers and jumpers are to be used for debugging errors in my PCB design by separating sections manually and using female-to-female jumper cables where needed. The test points will be pads on the board, rather than physical parts, to remove clutter and maintain my budget.</p>
-<p>The total cost of the light sensor subsystem PCB based on this BOM is <strong>$8.35</strong>
+<p>The total cost of the light sensor subsystem PCB based on this BOM is <strong>$2.88</strong>
 <br>
-However, I'm ordering 3 extra of each major component from Digi-Key for testing purposes, so my total price is <strong>$27.28</strong>
+However, I'm ordering 3 extra of each major component from Digi-Key for testing purposes, so my total price is <strong>$11.52</strong>
 <br>
 This is well within the <strong>$60</strong> per team member budget established by the course requirements.</p>
 <h2 id="bill-of-materials">Bill of Materials</h2>
@@ -900,18 +900,6 @@ This is well within the <strong>$60</strong> per team member budget established 
 <td>U2</td>
 </tr>
 <tr>
-<td>NPN Transistor</td>
-<td>1</td>
-<td>$1.70</td>
-<td>$1.70</td>
-<td>Diotec Semiconductor</td>
-<td>2N2222A</td>
-<td>Digi-Key</td>
-<td><a href="https://www.digikey.com/en/products/detail/diotec-semiconductor/2N2222A/13164037">Link</a></td>
-<td><a href="https://diotec.com/request/datasheet/2n2222a.pdf">Datasheet</a></td>
-<td>Q1</td>
-</tr>
-<tr>
 <td>Photoresistor</td>
 <td>1</td>
 <td>$0.87</td>
@@ -921,19 +909,7 @@ This is well within the <strong>$60</strong> per team member budget established 
 <td>Digi-Key</td>
 <td><a href="https://www.digikey.com/en/products/detail/advanced-photonix/NSL-5152/5423680">Link</a></td>
 <td><a href="https://www.advancedphotonix.com/wp-content/uploads/2015/07/DS-NSL-5152.pdf">Datasheet</a></td>
-<td>R5</td>
-</tr>
-<tr>
-<td>Potentiometer</td>
-<td>1</td>
-<td>$3.77</td>
-<td>$3.77</td>
-<td>Bourns Inc.</td>
-<td>3310R-125-103L</td>
-<td>Digi-Key</td>
-<td><a href="https://www.digikey.com/en/products/detail/bourns-inc/3310R-125-103L/2537840">Link</a></td>
-<td><a href="https://www.bourns.com/docs/Product-Datasheets/3310.pdf">Datasheet</a></td>
-<td>RV1</td>
+<td>R2</td>
 </tr>
 <tr>
 <td>8-pin DIP IC Socket</td>
@@ -972,32 +948,8 @@ This is well within the <strong>$60</strong> per team member budget established 
 <td>C1</td>
 </tr>
 <tr>
-<td>1k, 1/4W Resistor</td>
-<td>1</td>
-<td>$0.00</td>
-<td>$0.00</td>
-<td>n/a</td>
-<td>n/a</td>
-<td>Peralta</td>
-<td>n/a</td>
-<td>n/a</td>
-<td>R1</td>
-</tr>
-<tr>
-<td>200k, 1/4W Resistor</td>
-<td>1</td>
-<td>$0.00</td>
-<td>$0.00</td>
-<td>n/a</td>
-<td>n/a</td>
-<td>Peralta</td>
-<td>n/a</td>
-<td>n/a</td>
-<td>R2</td>
-</tr>
-<tr>
 <td>10k, 1/4W Resistor</td>
-<td>4</td>
+<td>5</td>
 <td>$0.00</td>
 <td>$0.00</td>
 <td>n/a</td>
@@ -1005,10 +957,10 @@ This is well within the <strong>$60</strong> per team member budget established 
 <td>Peralta</td>
 <td>n/a</td>
 <td>n/a</td>
-<td>R3, R4, R7, R8</td>
+<td>R1, R3, R4, R6, R8</td>
 </tr>
 <tr>
-<td>4.7k, 1/4W Resistor</td>
+<td>2k, 1/4W Resistor</td>
 <td>1</td>
 <td>$0.00</td>
 <td>$0.00</td>
@@ -1017,10 +969,22 @@ This is well within the <strong>$60</strong> per team member budget established 
 <td>Peralta</td>
 <td>n/a</td>
 <td>n/a</td>
-<td>R6</td>
+<td>R5</td>
 </tr>
 <tr>
-<td>300, 1/4W Resistor</td>
+<td>100k, 1/4W Resistor</td>
+<td>1</td>
+<td>$0.00</td>
+<td>$0.00</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>Peralta</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>R7</td>
+</tr>
+<tr>
+<td>330, 1/4W Resistor</td>
 <td>1</td>
 <td>$0.00</td>
 <td>$0.00</td>
@@ -1045,7 +1009,7 @@ This is well within the <strong>$60</strong> per team member budget established 
 </tr>
 <tr>
 <td>2-pin Jumper</td>
-<td>16</td>
+<td>9</td>
 <td>$0.00</td>
 <td>$0.00</td>
 <td>n/a</td>
@@ -1053,7 +1017,7 @@ This is well within the <strong>$60</strong> per team member budget established 
 <td>Peralta</td>
 <td>n/a</td>
 <td>n/a</td>
-<td>J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J17, J18</td>
+<td>J2, J3, J4, J5, J6, J7, J8, J10, J11</td>
 </tr>
 <tr>
 <td>40 Pin Header Connector</td>
@@ -1065,7 +1029,7 @@ This is well within the <strong>$60</strong> per team member budget established 
 <td>Peralta</td>
 <td><a href="https://www.amazon.com/Header-Lystaii-Pin-Connector-Electronic/dp/B06ZZN8L9S/ref=sr_1_15?dchild=1&amp;keywords=40+pin+header+male+to+male&amp;qid=1608606507&amp;sr=8-15">Link</a></td>
 <td>n/a</td>
-<td>J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J17, J18, J16, J19, J20, J21</td>
+<td>J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14</td>
 </tr>
 <tr>
 <td>40 Pin 2.54mm Single Row Straight Female PCB Header</td>
