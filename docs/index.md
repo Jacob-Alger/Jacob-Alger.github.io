@@ -11,16 +11,16 @@ as part of<br>
 for<br>
 <font size= "5"> Team 201 </font><br>
 
-**Submission: October 31, 2025**
+**Submission: November 7, 2025**
 </center>
 
 ## Introduction
 
-The purpose of this datasheet is to document my contributions to Team 201's "Garden Buddy" smart home garden tool project, specifically the light sensor subsystem that alerts the user when their plant is not receiving sufficient sunlight. This datasheet outlines my process for creating a schematic, which is currently in the review phase. I will implement the feedback received and then proceed to build my PCB subsystem.
+The purpose of this datasheet is to document my contributions to Team 201's "Garden Buddy" smart home garden tool project, specifically the light sensor subsystem that alerts the user when their plant is not receiving sufficient sunlight. This datasheet outlines my process for creating a schematic, which is currently under review. I will implement the feedback received and then proceed to build my PCB subsystem.
 
 ### Project Summary
 
-Team 201, the Irri-gators, set out to design a home improvement device for a user base, which we decided would be home gardeners, including both individuals who grow crops on a small, home-scale, and those who want to keep houseplants alive. To achieve this, we followed the design ideation process and settled on a design that consists of two sensors (light and moisture) and two actuators (water valve and buzzer). This design will enable the user to set it up and receive alerts when their plant requires more sunlight, as well as when it is being automatically watered. A comprehensive report of this project at the team level can be found [here](https://asu-egr304-2025-f-201.github.io/).
+Team 201, the Irri-gators, set out to design a home improvement device for a user base, which we decided would be home gardeners, including both individuals who grow crops on a small, home-scale, and those who want to keep houseplants alive. To achieve this, we followed the design ideation process and settled on a design that consists of two sensors (light and moisture) and two actuators (water valve and speaker). This design will enable the user to set it up and receive alerts when their plant requires more sunlight, as well as when it is being automatically watered. A comprehensive report of this project at the team level can be found [here](https://asu-egr304-2025-f-201.github.io/).
 
 ### My Contribution
 
