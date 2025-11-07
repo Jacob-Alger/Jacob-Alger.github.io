@@ -34,7 +34,8 @@ This is well within the **\$60** per team member budget established by the cours
 | 2k, 1/4W Resistor | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | R5 |
 | 100k, 1/4W Resistor | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | R7 |
 | 330, 1/4W Resistor | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | R9 |
-| 1A Fuse 5x20 | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | F1 |
+| 1A Fuse 5x20mm | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | F1 |
+| Cartridge Fuse Holder 5x20mm | 1 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | F1 |
 | 2-pin Jumper | 9 | $0.00 | $0.00 | n/a | n/a | Peralta | n/a | n/a | J2, J3, J4, J5, J6, J7, J8, J10, J11 |
 | 40 Pin Header Connector | 2 | $0.00 | $0.00 | Lystaii | n/a | Peralta | [Link](https://www.amazon.com/Header-Lystaii-Pin-Connector-Electronic/dp/B06ZZN8L9S/ref=sr_1_15?dchild=1&keywords=40+pin+header+male+to+male&qid=1608606507&sr=8-15) | n/a | J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14 |
 | 40 Pin 2.54mm Single Row Straight Female PCB Header | 2 | $0.00 | $0.00 | Qunqi | n/a | Peralta | [Link](https://www.amazon.com/Qunqi-2-54mm-Straight-Connector-Arduino/dp/B07CGGSDWF/ref=sr_1_17?dchild=1&keywords=female+header+strips&qid=1595380282&sr=8-17) | n/a | U3 |
