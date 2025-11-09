@@ -17,4 +17,4 @@ The top and bottom layers of my PCB design can be seen in **Figure 1** and **Fig
 
 ## Resouces
 
-The top and bottom layers as a PDF download is available [*here*](subsystem_design_pcb.pdf), and the Zip folder of the KiCad project [*here*](subsystem_design_pcb.zip).
+The top and bottom layers as a PDF download is available [*here*](subsystem_design_pcb.pdf), and the Zip folder of the KiCad project [*here*](subsystem_design_pcb.zip). The Gerber files used to manufacture this board can be found [*here*](JacobAlger201.zip).
