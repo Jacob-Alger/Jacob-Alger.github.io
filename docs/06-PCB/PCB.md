@@ -3,10 +3,10 @@ title: PCB
 ---
 
 ## Overview
-These are the top and bottom layers of the PCB I made for my light sensor subsystem. It features everything shown in the ***Schematic*** page, placed on a board within the 100x100mm constraints given. The board is in accordance with the Peralta Mill PCB Design Rules and passed the DRC in KiCad.
+This page includes the process of manufacturing my PCB from ECAD to soldering every component onto the final board. The PCB design features everything shown in the ***Schematic*** page, placed on a board within the 100x100mm constraints given. The board is in accordance with the Peralta Mill PCB Design Rules and passed the DRC in KiCad. Due to unforeseen issues with the Peralta PCB Mill, we switched to manufacturing our boards from JLCPCB, which had some added benefits of allowing us to have a soldermask, with a silkscreen printed on top, as well as 5 copies of our boards, which gave us peace of mind in testing and soldering our boards. For my board, I encountered minimal issues with the PCB design, and it functioned as expected, as demonstrated in the YouTube video below in the *PCB* section.
 
 ## PCB
-The top and bottom layers of my PCB design can be seen in **Figure 1** and **Figure 2** below. They are available as a PDF file, and the KiCad Project ZIP file, in the *Resources* section below.
+The top and bottom layers of my PCB design can be seen in **Figure 1** and **Figure 2** below. They are available as a PDF file in the *Resources* section below. The ZIP folder for my entire KiCad project, and the Gerber files used to manufacture my board, given to JLCPCB, can also be found in the *Resources* section below.
 <br>
 
 ![top layer](pcb_top_layer-rev2.png)
