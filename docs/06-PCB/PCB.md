@@ -23,7 +23,11 @@ Below is a 3D render of the PCB board without any components populated. **Figure
 ![3D bottom layer](subsystem_design_bpcb.png)
 **Figure 4: 3D Rendered Bottom Layer of the PCB Design**
 
-Finally, below are photos of my final design with components populated and soldered, with functionality tested and verified. **Figure 5** is the top layer and **Figure 6** is the bottom layer. A video of my design with functionality highlighted can be found here. [![PCB Video](https://img.youtube.com/vi/btywUc6i8Uw/maxresdefault.jpg)](https://www.youtube.com/watch?v=btywUc6i8Uw)
+Finally, below are photos of my final design with components populated and soldered, with functionality tested and verified. **Figure 5** is the top layer and **Figure 6** is the bottom layer.
+
+A **video** of my design with functionality highlighted can be found here. [![PCB Video](https://img.youtube.com/vi/btywUc6i8Uw/maxresdefault.jpg)](https://www.youtube.com/watch?v=btywUc6i8Uw)
+>Please click the thumbnail above to watch the video hosted on YouTube.
+<br>
 
 ![final top layer](pcb_final_top.jpg)
 **Figure 5: Final Top Layer of the PCB Design**
