@@ -17,6 +17,6 @@ The schematic is shown in **Figure 1** below, and the PDF file is available in t
 **Figure 1:** Light Sensor Subsystem Schematic.
 
 
-## Resouces
+## Resources
 
 The schematic as a PDF download is available [*here*](subsystem_design.pdf).
