@@ -827,18 +827,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#microcontroller-code" class="md-nav__link">
+  <a href="#resources" class="md-nav__link">
     <span class="md-ellipsis">
-      Microcontroller Code
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#resouces" class="md-nav__link">
-    <span class="md-ellipsis">
-      Resouces
+      Resources
     </span>
   </a>
   
@@ -942,18 +933,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#microcontroller-code" class="md-nav__link">
+  <a href="#resources" class="md-nav__link">
     <span class="md-ellipsis">
-      Microcontroller Code
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#resouces" class="md-nav__link">
-    <span class="md-ellipsis">
-      Resouces
+      Resources
     </span>
   </a>
   
@@ -985,8 +967,9 @@
   <h1>Microcontroller Code</h1>
 
 <h2 id="overview">Overview</h2>
-<h2 id="microcontroller-code">Microcontroller Code</h2>
-<h2 id="resouces">Resouces</h2>
+<p>For my PCB to function as a light sensor, I programmed the board to check the analog voltage from the op-amp, as illustrated in my block diagram. The code features a loop that checks the value. If the value is near the maximum, it waits 2 seconds to verify that the signal is high. Then, it both lights the LED and sends a digital high signal to the ribbon connector pin to communicate with my teammate's speaker board. It also features an if statement to use the debugging switch to manually light the LED for testing purposes. This code is not the most efficient, as it is constantly stalled. In future projects, I plan to use interrupts and global timers to perform these processes more efficiently. However, given my current skill level and the complexity of the subsystem, the following code works. The project was made by Microchip's IDE, MPLAB X IDE, to program the Curiosity Nano Board. The project can be found below in the <strong>Resources</strong> Section</p>
+<h2 id="resources">Resources</h2>
+<p>The MPLAB X IDE project can be downloaded as a ZIP folder <a href="../subsystem-design.zip">here</a>.</p>
 
 
 
