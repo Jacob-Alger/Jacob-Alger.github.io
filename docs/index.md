@@ -11,7 +11,7 @@ as part of<br>
 for<br>
 <font size= "5"> Team 201 </font><br>
 
-**Submission: November 7, 2025**
+**Submission: December 8, 2025**
 </center>
 
 ## Introduction
@@ -32,3 +32,5 @@ For the "Garden Buddy" project, I was tasked with designing the light sensor sub
 - To see the bill of materials for my PCB design, visit the ["BOM"](https://jacob-alger.github.io/03-BOM/BOM/) page of the datasheet.
 - To see my schematic of this subsystem, created in KiCad, visit the ["Schematic"](https://jacob-alger.github.io/04-Schematic/schematic/) page of the datasheet.
 - To see the power budget of my schematic, and verify it should run, visit the ["Power Budget"](https://jacob-alger.github.io/05-Power-Budget/Power-Budget/) page of the datasheet.
+- To see my PCB design and functionality, visit the ["PCB"](https://jacob-alger.github.io/06-PCB/PCB/) page of the datasheet.
+- To see the code that was programmed to the Curiosity Nano microcontroller, visit the ["Microcontroller Code"](https://jacob-alger.github.io/07-Microcontroller-Code/Microcontroller-Code/) page of the datasheet.
