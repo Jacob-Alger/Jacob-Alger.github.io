@@ -23,6 +23,15 @@ Below is a 3D render of the PCB board without any components populated. **Figure
 ![3D bottom layer](subsystem_design_bpcb.png)
 **Figure 4: 3D Rendered Bottom Layer of the PCB Design**
 
+Finally, below are photos of my final design with components populated and soldered, with functionality tested and verified. **Figure 5** is the top layer and **Figure 6** is the bottom layer. A video of my design with functionality highlighted can be found here. [![PCB Video](https://img.youtube.com/vi/btywUc6i8Uw/maxresdefault.jpg)](https://www.youtube.com/watch?v=btywUc6i8Uw)
+
+![final top layer](pcb_final_top.jpg)
+**Figure 5: Final Top Layer of the PCB Design**
+
+![final bottom layer](pcb_final_bottom.jpg)
+**Figure 6: Final Bottom Layer of the PCB Design**
+
+
 ## Resouces
 
 The top and bottom layers as a PDF download is available [*here*](subsystem_design_pcb-rev2.pdf), and the Zip folder of the KiCad project [*here*](subsystem_design_pcb-rev2.zip). The Gerber files used to manufacture this board can be found [*here*](JacobAlger201.zip).
