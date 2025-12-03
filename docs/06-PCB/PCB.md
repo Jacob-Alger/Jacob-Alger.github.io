@@ -20,7 +20,7 @@ Below is a 3D render of the PCB board without any components populated. **Figure
 ![3D top layer](subsystem_design_fpcb.png)
 **Figure 3: 3D Rendered Top Layer of the PCB Design**
 
-![3D bottom layer](subsystem_design_fpcb.png)
+![3D bottom layer](subsystem_design_bpcb.png)
 **Figure 4: 3D Rendered Bottom Layer of the PCB Design**
 
 ## Resouces
