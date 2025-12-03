@@ -32,6 +32,6 @@ Finally, below are photos of my final design with components populated and solde
 **Figure 6: Final Bottom Layer of the PCB Design**
 
 
-## Resouces
+## Resources
 
 The top and bottom layers as a PDF download is available [*here*](subsystem_design_pcb-rev2.pdf), and the Zip folder of the KiCad project [*here*](subsystem_design_pcb-rev2.zip). The Gerber files used to manufacture this board can be found [*here*](JacobAlger201.zip).
