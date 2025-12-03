@@ -15,6 +15,6 @@ In order to verify that my component selection and circuit design will work, I f
 
 From the prepared Power Budget, you can see that there is plenty of current to power my whole circuit, which makes sense as it is a simple light sensor with not many parts that draw large amounts of current. This confirms that my design, as long as it is built correctly, should not have any major issues power-wise, but to meet safety requirements, my subsystem will include a 1 Amp fuse to stop any unexpected large current draws.
 
-## Resouces
+## Resources
 
 The power budget as a PDF download is available [*here*](Power_Budget-rev2.pdf), and a Microsoft Excel Sheet [*here*](EGR304 - Power_Budget.xlsx).
