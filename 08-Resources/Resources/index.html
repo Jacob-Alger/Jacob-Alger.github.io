@@ -26,7 +26,7 @@
 
     
       
-        <title>Resources - EGR 304 Jacob Alger Data Sheet</title>
+        <title>Microcontroller Code - EGR 304 Jacob Alger Data Sheet</title>
       
     
     
@@ -89,6 +89,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#overview" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -120,7 +125,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Resources
+              Microcontroller Code
             
           </span>
         </div>
@@ -910,15 +915,61 @@
       
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Microcontroller Code
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
-    Resources
+    Microcontroller Code
   </span>
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -998,6 +1049,32 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1019,7 +1096,12 @@
   
 
 
-  <h1>Resources</h1>
+  <h1>Microcontroller Code</h1>
+
+<h2 id="overview">Overview</h2>
+<p>For my PCB to function as a light sensor, I programmed the board to check the analog voltage from the op-amp, as illustrated in my block diagram. The code features a loop that checks the value. If the value is near the maximum, it waits 2 seconds to verify that the signal is high. Then, it both lights the LED and sends a digital high signal to the ribbon connector pin to communicate with my teammate's speaker board. It also features an if statement to use the debugging switch to manually light the LED for testing purposes. This code is not the most efficient, as it is constantly stalled. In future projects, I plan to use interrupts and global timers to perform these processes more efficiently. However, given my current skill level and the complexity of the subsystem, the following code works. The project was made by Microchip's IDE, MPLAB X IDE, to program the Curiosity Nano Board. The project can be found below in the <em>Resources</em> Section</p>
+<h2 id="resources">Resources</h2>
+<p>The MPLAB X IDE project can be downloaded as a ZIP folder <a href="subsystem-design.zip">here</a>.</p>
 
 
 
@@ -1027,7 +1109,8 @@
 
 
 
-
+  
+  
 
 
 
