@@ -19,4 +19,4 @@ The schematic is shown in **Figure 1** below, and the PDF file is available in t
 
 ## Resources
 
-The schematic as a PDF download is available [*here*](subsystem_design.pdf).
+The schematic as a PDF download is available [*here*](subsystem_design.pdf). You can also download the entire ECAD (KiCad) project [*here*](../06-PCB/subsystem_design_pcb-rev2.zip)
