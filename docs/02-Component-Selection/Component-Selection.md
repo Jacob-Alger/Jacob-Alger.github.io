@@ -10,6 +10,8 @@ The other components that are not selected are the PIC18F57Q43 Curiosity Nano De
 
 A summary table can be seen below in *Table 1* for a quick overview of the selected components for my project
 
+*Table 1: Summary Table of Final Major Components Selected*
+
 | Component Type      | Selected Option                   | Price      | Key Reason for Selection                                      |
 |---------------------|------------------------------------|--------------|---------------------------------------------------------------|
 | Op-Amp              | MCP6002-E/P Rail-to-Rail Op-Amp    | $0.50        | Inexpensive, sufficient functionality, 2 op-amps per chip     |
@@ -17,7 +19,6 @@ A summary table can be seen below in *Table 1* for a quick overview of the selec
 | Voltage Regulator   | MC7805CT-BP Linear Voltage Regulator | $0.75        | Similar to lab kit part, easy to order, adequate performance  |
 | Barrel Jack         | PJ-102AH Power Barrel Connector Jack | $0.76        | Lab kit part, small PCB footprint, good mechanical properties |
 
-*Table 1: Summary Table of Final Major Components Selected*
 
 ### Op-Amp
 
