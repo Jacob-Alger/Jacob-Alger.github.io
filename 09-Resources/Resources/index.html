@@ -9,7 +9,7 @@
       
       
       
-        <link rel="canonical" href="https://embedded-systems-design.github.io/EGR304DataSheetTemplate/08-Resources/Resources/">
+        <link rel="canonical" href="https://embedded-systems-design.github.io/EGR304DataSheetTemplate/09-Resources/Resources/">
       
       
         <link rel="prev" href="../../08-Hardware-V2.0/Hardware-V2/">
@@ -386,7 +386,7 @@
   
     
   
-  08 Resources
+  09 Resources
 
         </a>
       </li>
@@ -887,7 +887,7 @@
             
   
   <span class="md-ellipsis">
-    08 Resources
+    09 Resources
   </span>
   
 
@@ -897,7 +897,7 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_10">
             <span class="md-nav__icon md-icon"></span>
-            08 Resources
+            09 Resources
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -1088,7 +1088,7 @@
                   
 
   
-    <a href="https://github.com/embedded-systems-design/EGR304DataSheetTemplate/edit/main/docs/08-Resources/Resources.md" title="Edit this page" class="md-content__button md-icon">
+    <a href="https://github.com/embedded-systems-design/EGR304DataSheetTemplate/edit/main/docs/09-Resources/Resources.md" title="Edit this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"></path></svg>
     </a>
@@ -1101,7 +1101,7 @@
 <h2 id="overview">Overview</h2>
 <p>For my PCB to function as a light sensor, I programmed the board to check the analog voltage from the op-amp, as illustrated in my block diagram. The code features a loop that checks the value. If the value is near the maximum, it waits 2 seconds to verify that the signal is high. Then, it both lights the LED and sends a digital high signal to the ribbon connector pin to communicate with my teammate's speaker board. It also features an if statement to use the debugging switch to manually light the LED for testing purposes. This code is not the most efficient, as it is constantly stalled. In future projects, I plan to use interrupts and global timers to perform these processes more efficiently. However, given my current skill level and the complexity of the subsystem, the following code works. The project was made by Microchip's IDE, MPLAB X IDE, to program the Curiosity Nano Board. The project can be found below in the <em>Resources</em> Section</p>
 <h2 id="resources">Resources</h2>
-<p>The MPLAB X IDE project can be downloaded as a ZIP folder <a href="../subsystem-design.zip">here</a>.</p>
+<p>The MPLAB X IDE project can be downloaded as a ZIP folder <a href="subsystem-design.zip">here</a>.</p>
 
 
 
