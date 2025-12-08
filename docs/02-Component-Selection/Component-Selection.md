@@ -8,6 +8,17 @@ For my Light Sensor subsystem in our smart garden project, I evaluated three dif
 
 The other components that are not selected are the PIC18F57Q43 Curiosity Nano Development Board, as this is the key microcontroller for the entire subsystem and project, and the wall power supply, the BestCH 9V 3.0A AC Adapter, which was provided with our kit and I feel is sufficient for my design. The microcontroller enables the conversion of analog readings to digital and back to analog for use, as well as providing timing and processing power throughout our system, and the AC power adapter can be used with a barrel jack to supply power to the board.
 
+A summary table can be seen below in *Table 1* for a quick overview of the selected components for my project
+
+| Component Type      | Selected Option                   | Price      | Key Reason for Selection                                      |
+|---------------------|------------------------------------|--------------|---------------------------------------------------------------|
+| Op-Amp              | MCP6002-E/P Rail-to-Rail Op-Amp    | $0.50        | Inexpensive, sufficient functionality, 2 op-amps per chip     |
+| Photoresistor       | NSL-5152 CdS Cells                 | $0.87        | Affordable, suitable resistance range, fits on PCB easily     |
+| Voltage Regulator   | MC7805CT-BP Linear Voltage Regulator | $0.75        | Similar to lab kit part, easy to order, adequate performance  |
+| Barrel Jack         | PJ-102AH Power Barrel Connector Jack | $0.76        | Lab kit part, small PCB footprint, good mechanical properties |
+
+*Table 1: Summary Table of Final Major Components Selected*
+
 ### Op-Amp
 
 1. MCP6002-E/P Rail-to-Rail Single Supply Op-Amp
