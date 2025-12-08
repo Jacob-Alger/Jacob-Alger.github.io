@@ -11,6 +11,7 @@ title: Resources
 - **Power Budget:** [XLSX](../05-Power-Budget/EGR304-Power_Budget.xlsx), [PDF](../05-Power-Budget/Power_Budget-rev3.pdf)
 - **PCB:** [ZIP](../06-PCB/subsystem_design_pcb-rev2.zip), [Gerber](../06-PCB/JacobAlger201.zip), [PDF](../06-PCB/subsystem_design_pcb-rev2.pdf)
 - **Microcontroller Code:** [ZIP](../07-Microcontroller-Code/subsystem-design.zip)
+- **Design Ideation:** [ZIP](Smart_Gardener_Concept.zip), [PDF](Smart Gardener.pdf)
 
 
 
