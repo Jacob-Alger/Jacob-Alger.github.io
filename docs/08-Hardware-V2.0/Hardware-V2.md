@@ -2,7 +2,7 @@
 title: Hardware V2.0
 ---
 
-## Hardware V2.0
+## Hardware Redesign Ideas
 There are several aspects that I would likely change if I were to undertake this project again. I think the first thing I would change is the location of the photoresistor, as there are several issues with its current placement. As you can see in the PCB design, the photoresistor is located at the center of the op-amp circuit area, directly adjacent to several resistors and the op-amp. This creates some issues that I noticed when testing with shadows, as the resistors can cast shadows, causing inaccurate readings of light. Now, ideally, the light sensor would not be obstructed by anything in an actual design, which is not reflected in my design because I prioritized class requirements over the product requirements we created in the team report. 
 
 I think I would also change the positioning of some of the extra headers, as their location made them difficult to solder due to being obstructed by other components. This could be fixed if I thought through the entire soldering process first and soldered in order of height. Alternatively, I could redesign the board to make better use of the space allocated by the design requirements.
