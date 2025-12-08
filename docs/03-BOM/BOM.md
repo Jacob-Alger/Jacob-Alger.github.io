@@ -12,6 +12,10 @@ The total cost of the light sensor subsystem PCB based on this BOM is **\$2.88**
 <br>
 However, I'm ordering 3 extra of each major component from Digi-Key for testing purposes, so my total price is **\$11.52**
 <br>
+Due to issues with the Peralta PCB Mill, we had to outsource our board production to JLCPCB, which for 5 boards before shipping cost **\$3.20**
+<br>
+This brings the full total cost of my project to **\$14.82**
+<br>
 This is well within the **\$60** per team member budget established by the course requirements.
 
 ## Bill of Materials
