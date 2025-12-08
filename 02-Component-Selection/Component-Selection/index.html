@@ -1167,6 +1167,44 @@
 <h2 id="individual-subsystem-component-selection">Individual Subsystem Component Selection</h2>
 <p>For my Light Sensor subsystem in our smart garden project, I evaluated three different components for each major component of my circuit to select the best ones. This includes the op-amp and the photoresistor, both of which are required to create an analog light-sensing circuit. Then there are the power supplies, which include the barrel jack connector for a 9-volt wall power supply and the linear voltage regulator for the 5 volts required for the photoresistor and the op-amp.</p>
 <p>The other components that are not selected are the PIC18F57Q43 Curiosity Nano Development Board, as this is the key microcontroller for the entire subsystem and project, and the wall power supply, the BestCH 9V 3.0A AC Adapter, which was provided with our kit and I feel is sufficient for my design. The microcontroller enables the conversion of analog readings to digital and back to analog for use, as well as providing timing and processing power throughout our system, and the AC power adapter can be used with a barrel jack to supply power to the board.</p>
+<p>A summary table can be seen below in <em>Table 1</em> for a quick overview of the selected components for my project</p>
+<table>
+<thead>
+<tr>
+<th>Component Type</th>
+<th>Selected Option</th>
+<th>Price</th>
+<th>Key Reason for Selection</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Op-Amp</td>
+<td>MCP6002-E/P Rail-to-Rail Op-Amp</td>
+<td>$0.50</td>
+<td>Inexpensive, sufficient functionality, 2 op-amps per chip</td>
+</tr>
+<tr>
+<td>Photoresistor</td>
+<td>NSL-5152 CdS Cells</td>
+<td>$0.87</td>
+<td>Affordable, suitable resistance range, fits on PCB easily</td>
+</tr>
+<tr>
+<td>Voltage Regulator</td>
+<td>MC7805CT-BP Linear Voltage Regulator</td>
+<td>$0.75</td>
+<td>Similar to lab kit part, easy to order, adequate performance</td>
+</tr>
+<tr>
+<td>Barrel Jack</td>
+<td>PJ-102AH Power Barrel Connector Jack</td>
+<td>$0.76</td>
+<td>Lab kit part, small PCB footprint, good mechanical properties</td>
+</tr>
+</tbody>
+</table>
+<p><em>Table 1: Summary Table of Final Major Components Selected</em></p>
 <h3 id="op-amp">Op-Amp</h3>
 <ol>
 <li>
