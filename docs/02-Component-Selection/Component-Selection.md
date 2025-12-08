@@ -215,7 +215,7 @@ A summary table can be seen below in *Table 1* for a quick overview of the selec
 
 
 ## MCC Configuration
-Below in **Figure 1**, you can see the MCC Configuration used in this project, which helps you understand how these components will interface with my microcontroller, the PIC18F57Q43 Curiosity Nano Development Board. The picture included the pins and subsystems used, showing how the ADC subsystem reads from the op-amp and photoresistor circuit, to send a digital signal to my teammates' boards. The UART is for the PuTTY serial programs, which will help me program the microcontroller based on the analog signal obtained from the ADC subsystem.
+Below in **Figure 1**, you can see the MCC Configuration used in this project, which helps you understand how these components will interface with my microcontroller, the PIC18F57Q43 Curiosity Nano Development Board. The picture included the pins and subsystems used, showing how the ADC subsystem reads from the op-amp and photoresistor circuit, to send a digital signal to my teammates' boards. The UART is for the PuTTY serial program, which will help me program the microcontroller based on the analog signal obtained from the ADC subsystem.
 
 ![MCC](MCC_project_resources.png)
 
